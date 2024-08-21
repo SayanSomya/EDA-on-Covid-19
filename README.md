@@ -4,7 +4,12 @@
 
 Data Visualization is the first step towards getting an insight into a large data set in every data science project. Once the data has been acquired and preprocessed (cleaned and de-duplicated) we start with the next step of Data Science's **Exploratory Data Analysis** which kicks off with data visualisation. The aim here is to extract useful insights and patterns from the raw data.
 
-I have used Python and its few powerful libraries to achieve the task.
+I have used Python and its few powerful libraries to achieve the task such as:
+* Pandas
+* NumPy
+* matplotlib.pyplot
+* seaborn
+* plotly.express
 
 ## Preprocessing the data
 
